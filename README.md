@@ -2,6 +2,11 @@
 Basic `Generic` Collections Library for Golang with interfaces to provide implementation-agnostic abstractions 
 over various collections
 
+## Installation
+```bash
+go get github.com/golanglibs/gocollections@latest
+```
+
 ## List of Implemented Data Structures
 * [ArrayList](./list/arraylist/list.go)
 * [DoublyLinkedList](./list/doublylinkedlist/doublylinkedlist.go)
